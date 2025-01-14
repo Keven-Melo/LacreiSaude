@@ -1,4 +1,4 @@
-import styled, { createGlobalStyle, ThemeProvider } from 'styled-components';
+import { createGlobalStyle, ThemeProvider } from 'styled-components';
 import { AppProps } from 'next/app';
 import { FC } from 'react';
 import Header from '@/components/Header';
